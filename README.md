@@ -1,3 +1,7 @@
+> **This project is retired and no longer maintained.** The widget, the hosted checkout and the Checkout Builder have been shut down. See https://superfluid.org/checkout-retired.
+>
+> Existing streams keep flowing and can be managed in the [Superfluid Dashboard](https://app.superfluid.org/). To build streaming payments, see the [Superfluid docs](https://docs.superfluid.org/).
+
 # Superfluid Widget &middot; ![npm version](https://badge.fury.io/js/%40superfluid-finance%2Fwidget.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) [![Twitter Follow](https://img.shields.io/twitter/follow/Superfluid_HQ?style=social)](https://twitter.com/Superfluid_HQ)
 
 Superfluid Widget is the best way to start receiving ongoing real-time payments powered by the Superfluid Protocol. This React widget library is designed to provide an easy-to-use, customizable, and versatile payment solution that can be integrated into your application in a matter of minutes.
